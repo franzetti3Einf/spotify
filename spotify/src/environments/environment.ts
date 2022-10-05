@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  oauthToken: "Bearer BQDkLBVCOLJ7zL2WQ5oQLscyyyPoWFDVcMynW9AhdKdOTOb3mtecYiXv9pZ71vd5Vzs_tBifMgeBfQNorHox9afrm1JKXRcbOVdd7NTqkyEN9PSEqFxX0XrPnWXFLSnDSEciydS8b6_BscAB71"
+  oauthToken: "Bearer BQAdWFOZlZC9wO7GEU5gJUS3l7RH-plsjPzZsYjxGpwsMH9BOn07uS4N1p3aQWjonI-ATd661GRrzJtBBO9K6gcxB3XqcVwAdIAR6w2wk5bvQzDhawiYY9sIqgc9kpMQJgGX1oioOiE5eBjrA6XqQCx9JhKpYongW3KxSgC_27sCsCwe6aKH6AowNBlzdgc-47c"
 };
 /*
  * For easier debugging in development mode, you can import the following file
